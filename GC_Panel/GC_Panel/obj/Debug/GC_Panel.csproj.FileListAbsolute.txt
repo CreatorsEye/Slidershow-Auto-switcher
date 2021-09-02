@@ -1,0 +1,9 @@
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\bin\Debug\GC_Panel.exe.config
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\bin\Debug\GC_Panel.exe
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\bin\Debug\GC_Panel.pdb
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\obj\Debug\GC_Panel.Properties.Resources.resources
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\obj\Debug\GC_Panel.SliderShow.resources
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\obj\Debug\GC_Panel.csproj.GenerateResource.Cache
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\obj\Debug\GC_Panel.exe
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\obj\Debug\GC_Panel.pdb
+c:\users\na\documents\visual studio 2012\Projects\GC_Panel\GC_Panel\obj\Debug\GC_Panel.Form1.resources
